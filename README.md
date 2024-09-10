@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15858413&assignment_repo_type=AssignmentRepo)
 # Get Started as the Web Got Started
 
 In this assignment, you will get a taste for making web pages, back in the days when the World Wide Web was terrible. Well, it wasn't terrible, it was just designed for academics, government officials, and folks working for the national defense. And what did these guys like? Boring stuff. To honnor them, we too will start with boring.
